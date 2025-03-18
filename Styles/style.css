@@ -21,11 +21,6 @@
     color: #E5E5E5 !important;
 }
 
-.navbar .navbar-nav {
-    position: relative;
-    right: 300px;
-}
-
 a.nav-link.active.text-white {
     color: #E5E5E5 !important;
 }
